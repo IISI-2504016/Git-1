@@ -1,1 +1,23 @@
 Start for learning git...
+
+update git file...
+
+
+<html>
+	<head>
+	</head>
+   	<body>
+     		<div class="container">
+      			<h1 id="heading">頭版消息</h1>
+     			<div>
+        		  	內文
+        			內文
+      	 		 	內文
+        			內文
+      			</div>
+      	  	<div id="footer">
+        	版權沒有，歡迎取用
+      		</div>
+     		</div>
+    	</body>
+</html>
