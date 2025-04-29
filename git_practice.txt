@@ -23,10 +23,9 @@ update git file...
       		</div>
      		</div>
     	</body>
-<<<<<<< HEAD
+ 
 </html>
-=======
+ 
 </html>
  
 
->>>>>>> a75ec42 (update git_practice.txt)
