@@ -1,8 +1,48 @@
 Start for learning git...
+ 
+<<<<<<< HEAD
+ 
+=======
+
+>>>>>>> a75ec42 (update git_practice.txt)
+update git file...
+
 
 Learning to code is a valuable skill that opens up many opportunities in today's technology-driven world, enhancing creativity and problem-solving.
+ 
 
-Yet nor the lays of birds nor the sweet smell
-Of different flowers in odour and in hue
-Could make me any summer’s story tell,
-Or from their proud lap pluck them where they grew;
+<html>
+	<head>
+	</head>
+   	<body>
+     		<div class="container">
+      			<h1 id="heading">頭版消息</h1>
+
+     			<div>
+<<<<<<< HEAD
+ 			Yet nor the lays of birds nor the sweet smell
+=======
+			Learning to code is a valuable skill that opens up many opportunities in today's technology-driven 			world, enhancing creativity and problem-solving.
+
+			Yet nor the lays of birds nor the sweet smell
+>>>>>>> a75ec42 (update git_practice.txt)
+			Of different flowers in odour and in hue
+			Could make me any summer’s story tell,
+			Or from their proud lap pluck them where they grew;
+      			</div>
+
+      	  		<div id="footer">
+        		版權沒有，歡迎取用
+      			</div>
+     		</div>
+    	</body>
+ 
+</html>
+<<<<<<< HEAD
+
+
+ 
+=======
+ 
+
+>>>>>>> a75ec42 (update git_practice.txt)
