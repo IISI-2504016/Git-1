@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-合併分支
-
 
 
 To see a world in a grain of sand,
@@ -18,7 +15,3 @@ Hold infinity in the palm of your hand,
 And eternity in an hour.
 
 永恆不過一刻鐘
-
-=======
-合併分支
->>>>>>> cat
